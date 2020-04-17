@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/steven/Documents/pcl_tutorials/segmentation/extract_indices.cpp
+/home/steven/Documents/pcl-tutorials/segmentation/extract_indices.cpp
 iostream
 -
 pcl/ModelCoefficients.h

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/steven/Documents/pcl_tutorials/segmentation/extract_indices.cpp" "/home/steven/Documents/pcl_tutorials/segmentation/build/CMakeFiles/extract_indices.dir/extract_indices.cpp.o"
+  "/home/steven/Documents/pcl-tutorials/segmentation/extract_indices.cpp" "/home/steven/Documents/pcl-tutorials/segmentation/build/CMakeFiles/extract_indices.dir/extract_indices.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
